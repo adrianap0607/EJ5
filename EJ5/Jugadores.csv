@@ -1,0 +1,14 @@
+Nombre,Pais,Errores,Aces,TotalServicios,Recibos,Pases,Fintas,Ataques,BloqueosEfectivos,BloqueosFallidos,TipoJugador
+Maria Gomez,Argentina,8,2,120, , 40,25, , , ,Pasador
+Carlos Rodriguez,Brasil,10,4,90, , , , 55,20,8,Auxiliar
+Laura Martinez,Italia,6,3,110,95, , , , , ,Libero
+Javier Lopez,Francia,7,2,120, , 42,28, , , ,Pasador
+Ana Sanchez,Alemania,9,5,95, , , , 58,18,7,Auxiliar
+Diego Fernandez,Estados Unidos,4,4,105,100, , , , , ,Libero
+Paula Garcia,Canada,8,3,115, , 49,30, , , ,Pasador
+Luis Hernandez,España,6,2,110, , , , 67,15,6,Auxiliar
+Adriana,Guatemala,4,5,7,5, , , , , ,Libero
+Alberto,Guatemala,2,3,4,4, , , , , ,Libero
+Felipe,Colombia,5,4,6, , , , 3,4,6,Auxiliar
+Juan,Espana,5,2,3, , 3,15, , , ,Pasador
+Carla,Morrison,1,5,9,5, , , , , ,Libero
